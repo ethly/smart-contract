@@ -1,0 +1,25 @@
+{
+  "name": "ethly-api",
+  "version": "0.0.1",
+  "description": "Smart Contract for eth.ly",
+  "scripts": {
+    "truffle": "node_modules/.bin/truffle",
+    "build": "node_modules/.bin/truffle compile",
+    "test": "node_modules/.bin/truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethly/smart-contract.git"
+  },
+  "keywords": [
+    "blockchain",
+    "ethereum",
+    "link"
+  ],
+  "author": "eth.ly",
+  "homepage": "https://github.com/ethly",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "truffle": "^4.0.1"
+  }
+}
