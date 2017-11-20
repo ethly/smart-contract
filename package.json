@@ -1,6 +1,6 @@
 {
-  "name": "ethly-api",
-  "version": "0.0.1",
+  "name": "ethly-smart-contract",
+  "version": "0.0.2",
   "description": "Smart Contract for eth.ly",
   "scripts": {
     "truffle": "node_modules/.bin/truffle",
@@ -19,6 +19,7 @@
   "author": "eth.ly",
   "homepage": "https://github.com/ethly",
   "license": "GPL-3.0",
+  "main": "build/contracts/LinkStorage.json",
   "dependencies": {
     "truffle": "^4.0.1"
   }

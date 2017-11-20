@@ -1,10 +1,10 @@
 module.exports = {
-  contracts_build_directory: './build',
   networks: {
     development: {
       host: 'localhost',
       port: 8545,
-      network_id: '*'
+      network_id: '*',
+      gas: 2100000
     },
     ropsten: {
       host: 'localhost',
