@@ -5,4 +5,4 @@
 - Setup: `npm install`
 - Start truffle: `npm run truffle`
 - Build: `npm run build`
-- Test: `npm run test`
+- Test: `npm run rpc` and `npm run test`
