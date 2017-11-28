@@ -1,6 +1,6 @@
 pragma solidity ^0.4.18;
 
-import "./Utils.sol";
+import "./utils/Mortal.sol";
 
 contract LinkStorage is Mortal{
   struct Link {
