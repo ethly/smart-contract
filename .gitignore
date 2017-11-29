@@ -60,3 +60,6 @@ typings/
 # Artifacts
 build/
 package-lock.json
+
+# Allow compiled smart contract (for now)
+!build/contracts/LinkStorage.json
